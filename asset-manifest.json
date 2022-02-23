@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/micompra/static/css/main.bc5ba88e.chunk.css",
+    "main.js": "/micompra/static/js/main.41273ff2.chunk.js",
+    "main.js.map": "/micompra/static/js/main.41273ff2.chunk.js.map",
+    "runtime-main.js": "/micompra/static/js/runtime-main.04dc69a7.js",
+    "runtime-main.js.map": "/micompra/static/js/runtime-main.04dc69a7.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/micompra/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.ac3f1a38.chunk.js": "/micompra/static/js/2.ac3f1a38.chunk.js",
+    "static/js/2.ac3f1a38.chunk.js.map": "/micompra/static/js/2.ac3f1a38.chunk.js.map",
+    "index.html": "/micompra/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/micompra/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.bc5ba88e.chunk.css.map": "/micompra/static/css/main.bc5ba88e.chunk.css.map",
+    "static/js/2.ac3f1a38.chunk.js.LICENSE.txt": "/micompra/static/js/2.ac3f1a38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04dc69a7.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.ac3f1a38.chunk.js",
+    "static/css/main.bc5ba88e.chunk.css",
+    "static/js/main.41273ff2.chunk.js"
+  ]
+}
